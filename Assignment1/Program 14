@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>sample.com</title>
+    </head>
+<body>
+    <h1>The definitions</h1>
+    <dl>
+        <dt>Algorithm</dt>
+        <dd>A step-by-step procedure or 
+            a finite sequence of well-defined instructions used to solve a problem or perform a computation.</dd>
+        <dt>Compound Interest</dt>
+        <dd>The interest calculated on the initial principal 
+            and also on the accumulated interest from previous periods, leading to exponential 
+            growth of the investment or debt.</dd>
+        <dt>Subnetting</dt>
+        <dd>The process of dividing 
+            a large IP address block into smaller, manageable sub-networks to optimize network 
+            performance and resource allocation.</dd>
+    </dl>
+    
