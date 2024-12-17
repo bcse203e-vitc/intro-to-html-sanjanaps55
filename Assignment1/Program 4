@@ -1,0 +1,14 @@
+<!DOCType html>
+<html>
+    <head>
+        <title>www.Tejas.com</title>
+    </head>
+    <body>
+        <h1> This is a paragraph</h1>
+        <p style="color:aqua">HI my name is sanjana</p>
+        <p style="color:green">I am a student at vellore instituete of technology</p>
+        <p style="color:purple">I am currently enrolled in computer science </p>
+
+
+    </body>
+</html>
