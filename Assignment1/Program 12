@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>sample.com</title>
+    </head>
+<body>
+    <h1>Short quote</h1>
+    <p><q>Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.</q></p>
+    <p><cite>Archimedes</cite></p>
+    <h1>Long Quote</h1>
+    <blockquote cite="https://www.brainyquote.com/topics/big-quotes">
+        I've heard there are troubles of more than one kind; some come from ahead, and some come from behind.
+         But I've brought a big bat. I'm all ready, you see; now my troubles are going to have troubles with me!
+    </blockquote>
+    
+
+
+    
+</body>
+</html>
