@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>sample.com</title>
+    </head>
+<body>
+    <h1>Paragraph 1</h1>
+
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;nbsp is actually one of the most frequently used HTML entities. Nbsp stands for non-breaking space, meaning 
+        that strings separated with this entity will not be separated and put into separate lines.</p>
+    <h1>Paragraph 2</h1>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;In the old HTML editor, this can be more tricky. You can try inserting &nbsp; right into the editor. However, if your theme doesn’t have 
+        CSS rules specifying how it should be rendered (and many don’t), you’ll probably see a raw code displayed on the page.</p>
+
+</body>
+</html>
