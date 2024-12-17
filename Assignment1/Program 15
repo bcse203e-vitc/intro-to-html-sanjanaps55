@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>sample.com</title>
+    </head>
+<body>
+    <address>
+        From Sanjana PS<br>
+        stephenson lane<br>
+        vyasar nagar<br>
+        perambur,chennai,<br>
+        <br>
+    </address>
+
+    <address>
+        To Aditi babu<br>
+        second street<br>
+        srp tools<br>
+        Shollingnallur,chennai<br>
+    </address>
